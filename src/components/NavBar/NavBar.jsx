@@ -30,6 +30,7 @@ export const NavBar = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+      
     </>
   )
 };

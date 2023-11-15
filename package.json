@@ -1,8 +1,10 @@
 {
   "name": "react-otero",
   "private": true,
+  "homepage": "http://AruOtero.github.io/Preentrega_Otero/",
   "version": "0.0.0",
   "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
